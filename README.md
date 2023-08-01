@@ -1,4 +1,6 @@
-> _made with [publish-ts](https://github.com/trcps/publish-ts)_
+> _👷🏽 TODO: This project is made with [publish-ts](https://github.com/trcps/publish-ts), read the docs to learn more._
+
+> _👷🏽 TODO: Read all the sections marked with "👷🏽 TODO", do them, and remove them from this README._
 
 <div align="right">
 
@@ -46,21 +48,22 @@ npm i publish-ts-test
 Browser / [Deno](https://deno.land):
 
 ```js
-import * from 'https://esm.sh/publish-ts-test'
+import { publishTsTest } from 'https://esm.sh/publish-ts-test'
 ```
+> _👷🏽 TODO: add the most important necessary imports from publish-ts-test here._
 
 <br>
 
 # Usage
 
-_Explain in details what the package does._
+> _👷🏽 TODO: explain in details what publish-ts-test does._
 
 ```js
 // perhaps with some nice code examples.
 
-import { someFunction } from 'publish-ts-test'
+import { publishTsTest } from 'publish-ts-test'
 
-console.log(someFunction().msg)
+console.log(publishTsTest().msg)
 ```
 
 <br>

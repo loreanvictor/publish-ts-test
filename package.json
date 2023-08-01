@@ -1,6 +1,6 @@
 {
   "name": "publish-ts-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a test package for publish-ts",
   "main": "dist/commonjs/index.js",
   "module": "dist/es/index.js",
